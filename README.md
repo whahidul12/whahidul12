@@ -1,64 +1,133 @@
+<!--- banner --->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=whahidul12.whahidul12&"  />
+  <img width="1584" alt="Image" src="https://github.com/user-attachments/assets/98041d3e-fee9-4db6-a411-1cbf4d518f2c" />
 </div>
 
-###
+<br/>
 
-<div align="center">
-  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/98041d3e-fee9-4db6-a411-1cbf4d518f2c" />
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Whahidul Islam</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Frontend+Web+Developer;JavaScript+Enthusiast;Interested+in+Programming" alt="Typing SVG" /></a>
+  </ul>
 </div>
 
-###
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
-</p>
+## 👨‍💻 About Me
 
+I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Full-Stack MERN Developer**, and a **Lifelong Learner**. who loves building practical, real-world applications. I focus on creating clean interfaces, efficient backends, and useful tools that improve productivity and automation.<br><br>I enjoy working with React, Node.js, Express, and MongoDB, and I'm currently exploring AI automation and workflow systems to build my own SaaS products in the future.<br><br>I believe in learning by building, improving a little every day, and creating software that helps people work smarter.
 
-###
+<!-- ABOUT ME  -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Assalamualaikum+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Whahidul+Islam...;Nice+to+me+you...+%E2%9D%A4%EF%B8%8F" alt="Typing SVG">
-  </a>
-</p>
+<table>
+<tr>
+<td width="60%">
 
-###
+- 💻 Building projects with **React, Node.js, Express.js & MongoDB**
+- 🌱 Currently learning **Next.js & backend skills**
+- 🤝 Open to collaborate on **open-source & MERN projects**
+- 🎯 Goal: To become a **Full-Stack Developer** with expertise in **MERN & Cloud & DevOps**
 
-<p align="left">I'm Whahidul Islam — a Front-End || JavaScript developer who loves building practical, real-world applications. I focus on creating clean interfaces, efficient backends, and useful tools that improve productivity and automation.<br><br>I enjoy working with React, Node.js, Express, and MongoDB, and I'm currently exploring AI automation and workflow systems to build my own SaaS products in the future.<br><br>I believe in learning by building, improving a little every day, and creating software that helps people work smarter.</p>
+</td>
+<td width="40%" align="center">
 
-###
+<!-- Professional Developer GIF -->
+<img src="https://i.ibb.co.com/3YMrF8xd/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Developer Animation" width="300"/>
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!--- technology --->
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+<table align="center">
+  <tr>
+    <th>Skills Overview</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Technologies</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
+      <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
+      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Back-End Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
+      <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+      <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+      <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
+      <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
+      <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!--- statistics --->
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=whahidul12&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+### GitHub Statistics:
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=whahidul12&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whahidul12&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### Repository Stats & Streak:
+
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=whahidul12&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=whahidul12" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+
+<!-- Socials -->
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>Let's Connect!</b>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/whahidul12/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/whahidul12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/whahidul12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801995106662" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="whahidul.islam.tech@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
-###
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
-</p>
+---
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whahidul12/whahidul12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whahidul12/whahidul12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/whahidul12/whahidul12/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whahidul12&label=Profile%20views&color=0e75b6&style=flat" alt="whahidul12" /> </p>
