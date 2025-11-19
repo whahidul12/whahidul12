@@ -26,16 +26,19 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
 <tr>
 <td width="60%">
 
-- 💻 Building projects with **React, Node.js, Express.js & MongoDB**
-- 🌱 Currently learning **Next.js & backend skills**
-- 🤝 Open to collaborate on **open-source & MERN projects**
+- 🖥️ I build full-stack projects using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- 🎨 I love creating clean UI and smooth user experiences with React.js & Tailwind CSS.
+- 🗄️ I build efficient APIs using Node.js, Express.js & MongoDB.
+- 🌱 Currently learning advanced MERN patterns, authentication, and optimization.
+- 💬 Ask me about JavaScript, MERN Stack, REST APIs, React.js, Node.js.
+- 📫 Reach me anytime: whahidul.islam.tech@gmail.com
 - 🎯 Goal: To become a **Full-Stack Developer** with expertise in **MERN & Cloud & DevOps**
 
 </td>
 <td width="40%" align="center">
 
 <!-- Professional Developer GIF -->
-<img src="https://i.ibb.co.com/3YMrF8xd/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Developer Animation" width="300"/>
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Developer Animation" width="300"/>
 
 </td>
 </tr>
@@ -95,6 +98,22 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
 
 <br/>
 
+<!-- Socials -->
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>Let's Connect!</b>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/whahidul12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/whahidul12" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+<br/>
+
+---
+
 <!--- statistics --->
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
@@ -113,21 +132,18 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=whahidul12&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=whahidul12" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
-<!-- Socials -->
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>Let's Connect!</b>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/whahidul12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/whahidul12" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-<br/>
-
----
+## My Projects:
+Check the pinned repositories below 👇
+</div>
 
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whahidul12&label=Profile%20views&color=0e75b6&style=flat" alt="whahidul12" /> </p>
+
+<div align="center">
+  <img width="1584" alt="Image" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" />
+</div>
+
+
+
