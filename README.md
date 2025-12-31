@@ -58,40 +58,31 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,go" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend Technologies</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
-      <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
-      <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
-      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+      <img src="https://skillicons.dev/icons?i=next,react,tailwind,bootstrap,html,css" />
     </td>
   </tr>
   <tr>
     <td><b>Back-End Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-      <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,postman" />
     </td>
   </tr>
   <tr>
     <td><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
-      <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
     </td>
   </tr>
   <tr>
     <td><b>Tools & Platforms</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-      <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
-      <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
-      <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
-      <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
+      <img src="https://skillicons.dev/icons?i=git,vscode,figma,vercel,netlify" />
     </td>
   </tr>
 </table>
