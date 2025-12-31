@@ -106,6 +106,9 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
       <a href="https://dev.to/whahidul12" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
+        <a href="https://www.facebook.com/whahidul12" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
+  </a>
   <a href="mailto:whahidul.islam.tech@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
