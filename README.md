@@ -82,7 +82,7 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
   <tr>
     <td><b>Tools & Platforms</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,vscode,figma,vercel,netlify" />
+      <img src="https://skillicons.dev/icons?i=git,npm,vscode,figma,vercel,netlify" />
     </td>
   </tr>
 </table>
@@ -95,13 +95,19 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
 
 <p align="left">
   <a href="https://www.linkedin.com/in/whahidul12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/whahidul12" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://x.com/whahidul12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+    <a href="https://discord.com/channels/@me/1089049544886595685" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+      <a href="https://dev.to/whahidul12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
   <a href="mailto:whahidul.islam.tech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
 </p>
 
@@ -116,16 +122,6 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
 ### GitHub Contributions:
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whahidul12&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-### GitHub Statistics:
-
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=whahidul12&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whahidul12&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### Repository Stats & Streak:
-
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=whahidul12&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=whahidul12" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
