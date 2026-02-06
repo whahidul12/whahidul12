@@ -1,6 +1,6 @@
 <!--- banner --->
 <div align="center">
-  <img width="1584" alt="Image" src="https://github.com/user-attachments/assets/98041d3e-fee9-4db6-a411-1cbf4d518f2c" />
+  <img width="1584" alt="Image" src="https://github.com/whahidul12/whahidul12/blob/35db01c487fe5c95f93bd06c28a62d96613da7e2/Whahidul_Isalm_banner_(3).png" />
 </div>
 
 <br/>
