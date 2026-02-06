@@ -136,7 +136,7 @@ Check the pinned repositories below 👇
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whahidul12&label=Profile%20views&color=0e75b6&style=flat" alt="whahidul12" /> </p>
 
 <div align="center">
-  <img width="1584" alt="Image" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" />
+  <img width="1584" alt="Image" src="https://github.com/whahidul12/whahidul12/blob/1aceea200e3d9cb3044decd48caba62bf0ed2540/JS-GIF.gif" />
 </div>
 
 
