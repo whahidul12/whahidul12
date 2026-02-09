@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Full-Stack MERN Developer**, and a **Lifelong Learner**. who loves building practical, real-world applications. I focus on creating clean interfaces, efficient backends, and useful tools that improve productivity and automation.<br><br>I enjoy working with React, Node.js, Express, and MongoDB, and I'm currently exploring AI automation and workflow systems to build my own SaaS products in the future.<br><br>I believe in learning by building, improving a little every day, and creating software that helps people work smarter.
+I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Web Developer**, and a **Lifelong Learner**. who loves building practical, real-world applications. I focus on creating clean interfaces, efficient backends, and useful tools that improve productivity and automation.<br><br>I enjoy working with React, Node.js, Express, and MongoDB, and I'm currently exploring AI automation and workflow systems to build my own SaaS products in the future.<br><br>I believe in learning by building, improving a little every day, and creating software that helps people work smarter.
 
 <!-- ABOUT ME  -->
 
