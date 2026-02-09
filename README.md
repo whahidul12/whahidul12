@@ -129,7 +129,9 @@ I'm **[@Whahidul Islam](https://github.com/whahidul12)** 👋 — A **Junior Ful
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
 ## My Projects:
+
 Check the pinned repositories below 👇
+
 </div>
 
 <!--- visit count --->
@@ -138,6 +140,3 @@ Check the pinned repositories below 👇
 <div align="center">
   <img width="1584" alt="Image" src="https://github.com/whahidul12/whahidul12/blob/1aceea200e3d9cb3044decd48caba62bf0ed2540/JS-GIF.gif" />
 </div>
-
-
-
